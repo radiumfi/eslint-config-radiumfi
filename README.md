@@ -1,4 +1,4 @@
-# eslint-config-pancake
+# eslint-config-radiumfi
 
 Pancake Eslint config with:
 
@@ -9,7 +9,7 @@ Pancake Eslint config with:
 ## Usage
 
 ```
-npx install-peerdeps --dev @pancakeswap-libs/eslint-config-pancake
+npx install-peerdeps --dev @radiumfi-libs/eslint-config-radiumfi
 ```
 
-Add `"extends": "@pancakeswap-libs/eslint-config-pancake"` to your eslint config file.
+Add `"extends": "@radiumfi-libs/eslint-config-radiumfi"` to your eslint config file.

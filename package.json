@@ -1,12 +1,12 @@
 {
-  "name": "@pancakeswap-libs/eslint-config-pancake",
+  "name": "@radiumfi-libs/eslint-config-radiumfi",
   "version": "1.0.0",
-  "description": "Eslint config for PancakeSwap",
+  "description": "Eslint config for Radium Finance",
   "main": "lib/index.js",
   "files": [
     "lib"
   ],
-  "repository": "git@github.com:pancakeswap/eslint-config-pancake.git",
+  "repository": "git@github.com:radiumfi/eslint-config-radiumfi.git",
   "license": "MIT",
   "author": "RabbitDoge",
   "private": false,
